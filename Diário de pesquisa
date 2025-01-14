@@ -1,11 +1,15 @@
 Métricas para avaliação
 MAE, RMSE, MAPE, SMAPE e CORR.
 
-
 Dia 1 - 13-01-2025
-Teste das técnicas estatísticas no CENAPAD:
+Teste das técnicas estatísticas no CENAPAD e validar implementações:
 ARIMA
 VAR
 MA
 
 Dia 2 - 14-01-2025
+Ajustar e testar técnica STG-NCDE
+Implementar LSTM
+
+Dia 3 - 15-01-2025
+Commit das técnicas validadas e comentários dos ajustes feitos em técnicas de artigos
